@@ -22,7 +22,7 @@ export default function FaqSection() {
 
   return (
     <section className="bg-white">
-      <div className="mx-auto px-6 md:px-6">
+      <div className="mx-auto px-6 md:px-6 p-0">
         <h2 className="text-zinc-900 uppercase tracking-wide text-2xl md:text-4xl font-light">
           FREQUENTLY ASKED QUESTIONS
         </h2>
