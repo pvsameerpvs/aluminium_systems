@@ -56,7 +56,7 @@ export default function Header() {
             whileTap={{ scale: 0.98 }}
             transition={{ type: "spring", stiffness: 300, damping: 22 }}
           >
-            <Logo className="h-6 w-auto" />
+            {/* <Logo className="h-6 w-auto" /> */} DVA
           </motion.div>
         </Link>
 
